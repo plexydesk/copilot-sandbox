@@ -11,7 +11,7 @@ visit: http://localhost:6080/wetty after that
 from the browser
 
 ```
-start vim  -> to coplete the setup
+start vim  -> to test the setup
 ```
 
 after setup completes
